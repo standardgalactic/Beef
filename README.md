@@ -27,3 +27,10 @@ A numbered list:
   1. JavaScript
   1. Go
   1. Bash
+
+A horizontal line:
+
+----
+
+A line return  
+Violets are blue.
