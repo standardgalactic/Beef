@@ -32,5 +32,8 @@ A horizontal line:
 
 ----
 
-A line return  
-Violets are blue.
+```
+  A little poem  
+  about nothing
+  in particular.
+```
