@@ -47,10 +47,10 @@ Javascript:
 ```
 
 Abbreviations:
-* md	Markdown
-* json	JSON
-* js	JavaScript
-* html	HTML
-* css	CSS
-* sh	Shell or Bash
-* go	Go (golang)
+* md	    Markdown
+* json	  JSON
+* js	    JavaScript
+* html	  HTML
+* css	    CSS
+* sh	    Shell or Bash
+* go	    Go (golang)
