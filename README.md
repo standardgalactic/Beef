@@ -18,4 +18,4 @@ Here is URL to <https://rwx.gg/md> that will appear in full.
  
 * a list
    * of some
-   * randome things 
+   * random things 
