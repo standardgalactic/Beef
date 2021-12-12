@@ -32,8 +32,14 @@ A horizontal line:
 
 ----
 
+Some text you might want to copy:
+
 ```
   A little poem  
   about nothing
   in particular.
+```
+
+```js
+  console.log("Hello, World")
 ```
