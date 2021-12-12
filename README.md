@@ -1,9 +1,9 @@
 # Beef
 Lathe-based myco-bacterial meats. 
 
-   # heading one
+   ## heading two
   
-  one star for *italics*
+   one star for *italics*
   
    two stars for **bold**
   
@@ -11,4 +11,10 @@ Lathe-based myco-bacterial meats.
   
    backtics for `monospaced`
  
+ Here is a [link to rwx.gg](https://rwx.gg).
+
+Here is URL to <https://rwx.gg/md> that will appear in full.
  
+* a list
+   * of some
+   * randome things 
