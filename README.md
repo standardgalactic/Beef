@@ -1,7 +1,8 @@
 # Beef
 Lathe-based myco-bacterial meats. 
 
-   ## heading two
+  
+## Heading Two
   
    one star for *italics*
   
