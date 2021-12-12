@@ -40,6 +40,17 @@ Some text you might want to copy:
   in particular.
 ```
 
+Javascript:
+
 ```js
   console.log("Hello, World")
 ```
+
+Abbreviations:
+* md	Markdown
+* json	JSON
+* js	JavaScript
+* html	HTML
+* css	CSS
+* sh	Shell or Bash
+* go	Go (golang)
